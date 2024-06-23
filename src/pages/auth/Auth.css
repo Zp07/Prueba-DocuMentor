@@ -1,0 +1,98 @@
+.button-email{
+    width: 100%;
+    height: 50px;
+    color: #2D451C;
+    background-color: #B6C7AA;
+    border: 1px solid transparent;
+    border-radius: 10px;  
+    font-size: 1rem;  
+}
+
+.button-google{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    width: 80%;
+    max-width: 200px    ;
+    height: 50px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+}
+
+.button-google img{
+    width: 20px ;
+    margin-right: 5px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.container .content {
+    width: 100%;
+    max-width: 600px;   
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.container  h2 {
+    font-size: 2.5rem;
+    margin-top: 20px;
+}
+
+.container h3 {
+    font-size: 1.2rem;
+    font-weight: normal ;
+    margin-top: 10px;
+}
+
+.container-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form {
+    width: 100%;
+    margin-bottom: 50px ;
+}
+
+.input-group{
+        margin-bottom: 15px ;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+.terms {
+    text-align: center;
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: 20px;
+}
+
+.terms p {
+    font-size: 1rem;
+}
+.terms a {
+    color: #2D451C;
+    text-decoration: none;
+}
+
+.terms a:hover {
+    text-decoration: underline;
+}   

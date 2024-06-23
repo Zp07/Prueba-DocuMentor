@@ -1,0 +1,41 @@
+.oportunity-section {
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.oportunity-section h3 {
+    font-size: 2rem;
+    font-weight: bold   ;
+}
+
+.oportunity-grid {
+    display: grid;
+    grid-template-columns:1fr 1fr; 
+    gap: 20px;
+}
+
+.oportunity-item {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0,0.1);
+}
+
+.oportunity-logo{
+    width: 50px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.oportunity-item h4 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.oportunity-item p {
+    font-size: 1rem;
+    color: #666 ;
+}
