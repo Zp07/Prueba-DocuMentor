@@ -19,14 +19,14 @@
 
 # Se deben realizar los siguientes entregables:
 
-    ● Usando las herramientas de diseño gráfico, diagramar las piezas gráficas que usted
+    ✔ ● Usando las herramientas de diseño gráfico, diagramar las piezas gráficas que usted
     crea convenientes para brindar la imagen conceptual de la aplicación.
 
-    ● Construir los mockups del esquema completo de la aplicación, para definir los
+    ✔ ● Construir los mockups del esquema completo de la aplicación, para definir los
     prototipos de alta fidelidad, utilizando buenas prácticas y los conceptos de UX/UI
     que mejor le parezcan.
 
-    ● Realizar los cortes del diseño y la maquetación de la aplicación para la web .
+    ✔ ● Realizar los cortes del diseño y la maquetación de la aplicación para la web .
 
     ● Realizar la programación de la interfaz de usuario (apariencia) programada desde
     cero en React, que contenga un onboarding screen, un login y otras 4 screens con

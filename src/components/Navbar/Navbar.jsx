@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import Logo from '../../assets/Logo.png'
+import Logo from '../../../public/Logo.png'
 import './Navbar.css'
 
 const LogoWeb = Logo 
@@ -9,8 +9,8 @@ export default function Navbar() {
         <nav className="navbar">    
             <div className='navbar-logo'>
                 <img src={LogoWeb} alt="Logo" className='logo-image'/>
-                <span className="navbar-title">
-                    <Link to='/'>DocuMentor</Link>
+                <span>
+                    <Link to='/' className='navbar-title'>DocuMentor</Link>
                 </span>
             </div>  
 

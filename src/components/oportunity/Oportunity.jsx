@@ -1,7 +1,7 @@
-import WorldLogo from '../../assets/world.png'
-import AccountLogo from '../../assets/account.png'
-import SecureLogo from '../../assets/secure.png'
-import  CalendarLogo from '../../assets/calendar.png'
+import WorldLogo from '../../assets/icons/world.png'
+import AccountLogo from '../../assets/icons/account.png'
+import SecureLogo from '../../assets/icons/secure.png'
+import  CalendarLogo from '../../assets/icons/calendar.png'
 import './Oportunity.css'
 
 export default function Oportunity() {
@@ -9,7 +9,7 @@ export default function Oportunity() {
         <>
           <section className='oportunity-section'>
                 <h3>Oportunity</h3>
-                <div className='oportunity-grid'>
+                <article className='oportunity-grid'>
                     <div className='oportunity-items'>
                         <img 
                         src={WorldLogo} 
@@ -49,7 +49,7 @@ export default function Oportunity() {
                         <h4>Calendar</h4>
                         <p>Separate your date with revision with professional</p>
                     </div>
-                </div>
+                </article>
             </section>
         </>
     )

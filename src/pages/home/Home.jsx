@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import Oportunity from '../../components/oportunity/Oportunity'
-import ImgHome from '../../assets/board.png'
+import ImgHome from '../../assets/img/board.png'
 import NavbarAuth from '../../components/Navbar/NavbarAuth'
 import Footer from '../../components/Footer/Footer'
 import './Home.css'
@@ -32,7 +32,7 @@ export default function Home () {
                 </section>
                 
                 <Oportunity />
-                <Footer />
+                <Footer /> 
             </main>
         </>
         

@@ -1,4 +1,4 @@
-import OnBourdingImg from '../../assets/OnBourdingImg.png'
+import OnBourdingImg from '../../assets/img/OnBourdingImg.png'
 import { Link } from 'react-router-dom'
 import './onBourding.css'
 

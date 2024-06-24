@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-import GoogleLogo from '../../assets/GoogleLogo.png'
+import GoogleLogo from '../../assets/icons/GoogleLogo.png'
 import './Auth.css'
 
 export default function Login () {
